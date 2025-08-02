@@ -26,3 +26,13 @@ Na plataforma de ensino online **[Udemy](https://www.udemy.com/)**.
 - 46 - More Prop Syntaxes
 - 47 - Best Practice: Storing Components in Files & Using a Good Project Structure
 - 48 - Storing Component Style Files Next To Components
+- 49 - Component Composition: The special "children" Prop [Core Concept]
+- 50 - Reacting to Events [Core Concept]
+- 51 - Passing Functions as Values to Props
+- 52 - Passing Custom Arguments to Event Functions
+- 53 - How NOT to Update the UI - A Look Behind The Scenes of React [Core Concept]
+- 54 - Managing State & Using Hooks [Core Concept]
+- 55 - Deriving & Outputting Data Based on State
+- 56 - Rendering Content Conditionally
+- 57 - CSS Styling & Dynamic Styling
+- 58 - Outputting List Data Dynamically
