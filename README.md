@@ -36,3 +36,14 @@ Na plataforma de ensino online **[Udemy](https://www.udemy.com/)**.
 - 56 - Rendering Content Conditionally
 - 57 - CSS Styling & Dynamic Styling
 - 58 - Outputting List Data Dynamically
+- 59 - Module Summary
+- 60 - Module Introduction
+- 61 - You Don't Have To Use JSX!
+- 62 - Working with Fragments
+- 63 - When Should You Split Components?
+- 64 - Splitting Components By Feature & State
+- 65 - Problem: Props Are Not Forwarded To Inner Elements
+- 66 - Forwarding Props To Wrapped Elements
+- 67 - Working with Multiple JSX Slots
+- 68 - Setting Component Types Dynamically
+- 69 - Setting Default Prop Values
